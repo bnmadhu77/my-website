@@ -37,7 +37,7 @@ h3
 }
 .middle-container
 {
-    
+  padding-top: 30px;  
 }
 .last-container
 {
@@ -45,7 +45,7 @@ h3
     padding-top: 20px;
     margin-top: 10px;
     margin-bottom: 0px;
-    margin-bottom: 0px;
+  padding-bottom: 5px; 
         
 }
 
@@ -88,5 +88,31 @@ top: 50px;
 {
     padding: 10px;
 }
+hr
+{
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 5px;
+    width: 10% ;
+    border-color: grey;
+    ;
+}
+
+.intro
+{
+    width:30%;
+    line-height: 2;
+    margin: auto;
+}
+.btn
+{
+    color:#116392
+    
+}
+.contact-me
+{
+    margin-bottom: 10px;
+}
+    
 
     
